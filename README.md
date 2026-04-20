@@ -19,9 +19,9 @@
 #####################
 الصور
 #####################
-![Home](https://raw.githubusercontent.com/helalbe/NavigationOmarAl/main/image/home.jpg)
+
 ![الصفحة الرئيسية](image/home.jpg)
 ![ المنتجات](image/prodact.jpg)
 ![المنتج رقم 1 ](image/prodact1.jpg)
 ![صفحة المفضلات ](image/favorites.jpg)
-![اشعار تفضيل المنتج ](image/add_favorite.jpg)
+![اشعار تفضيل المنتج ](image/add_favorite.png)
